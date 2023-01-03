@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-sqlize",
+  "version": "1.0.0",
+  "description": "Just CLI with SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aerdonix/SQLize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aerdonix/SQLize/issues"
+  },
+  "homepage": "https://github.com/Aerdonix/SQLize#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0",
+    "yargs": "^17.6.2"
+  }
+}
